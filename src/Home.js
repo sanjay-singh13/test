@@ -7,7 +7,7 @@ function Home() {
             <img src="https://img.freepik.com/free-photo/mirrors-landscape-color-year-2023_23-2149991013.jpg?w=740&t=st=1671614449~exp=1671615049~hmac=d34d209f46519d22b9488aae184c5065285ba72e5847abdf5c45558bb4055327" className='home-img' alt="" />
             <div className='nu-info'>
                 <div className="nu-home-heading">
-                    <p>Simplified living Transforming lives</p>
+                    <p>Simply living Transforming lives</p>
                 </div>
                 <p className='nu-crossline'>--------------- x x x ---------------</p>
                 <div className="nu-desc">
